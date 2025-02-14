@@ -3,7 +3,7 @@
 
 ## 1. Introdução  
 *Descreva brevemente o objetivo da atividade, mencionando a proposta de reinvenção do jogo Pong e a abordagem escolhida pela dupla.*
- 
+A atividade tem como objetivo colocar em prática os aprendizados que tivemos na última aula, sobre Concept Art, frameworks MDA e Game Design, através da reinvenção do jogo Pong. Para unir criatividade e design, pensamos em algo que pudesse trazer um sentimento ao usuário de se identificar com o tema, e acabamos focando nas mulheres como públic-alvo. Por isso, escolhemos o tema salão, para que todas se divertissem enquanto jogam.
 ---
 
 ## 2. Pesquisa e Análise Inicial  
@@ -14,13 +14,13 @@
 ## 3. Proposta de Reinvenção  
 *Explique as mudanças propostas para a nova versão do **Pong**, detalhando:*  
 
-*- **Tema e Ambientação:** Qual é o novo contexto do jogo?*
+*- **Tema e Ambientação:** Qual é o novo contexto do jogo?* O novo contexto do jogo é um Salão de Beleza, focado na parte de cabelo.
 
-*- **Personagens ou Elementos Visuais:** Se houver personagens ou variações visuais, descreva.*
+*- **Personagens ou Elementos Visuais:** Se houver personagens ou variações visuais, descreva.* Colocamos como principais elementos visuais, dois secadores de cabelo ligados; uma bolinha de cabelo no meio; e uma personagem no meio da tela com os cabelos para cima e aterrorizada com o que estava acontecendo com o seu cabelo.
 
-*- **Mudanças na Mecânica:** Houve alguma alteração nas regras ou na forma de jogar?*
+*- **Mudanças na Mecânica:** Houve alguma alteração nas regras ou na forma de jogar?* As regras continuam a mesma, a única diferença é que ao invés de ser uma barra que faz com que a bolinha continue no jogo, agora são secadores de cabelo, os quais usam do vento para manter a bolinha indo de um lado para o outro.
 
-*- **Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original?*
+*- **Objetivo da Reinvenção:** O que a nova versão pretende explorar ou melhorar em relação ao original?* A nova versão pretende trazer uma idetificação maior com o novo público-alvo, 
 
 *Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
 
