@@ -21,24 +21,28 @@ Dessa forma, o que torna o Pong um jogo envolvente, é o fato dele ser simples d
 
 *Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
 
-O RASCUNHO:
+http://tiny.cc/ai7a001
 
-O esboço foi desenvolvido pensando na simplicidade, por isso optamos por colocar apenas os elementos viuais principais necessários para o entedimento da temática, já que nós duas não temos muitas experiências com desenhos. 
-
-CONTINUAR 
+O esboço foi desenvolvido pensando na simplicidade, por isso optamos por colocar apenas os elementos viuais principais necessários, com um background ambientado em um salão de beleza para o entedimento da temática, já que ambas não tem muitas experiências com desenhos.
 
 
 
 ---
 
 ## 4. Tela Digital do Jogo  
-*Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*  
+
+http://tiny.cc/mi7a001
 
 *- Como o concept foi adaptado para o formato digital?*
+    A adaptação para o digital foi feita por meio do aplicativo Sketchbook® para iPads, onde reunimos os elementos previamente esboçados, como o secador, o salão e o tufo de cabelo, e os digitalizamos. Esse processo permitiu maior precisão nos traços e a inclusão de detalhes que enriqueceram a identidade visual do jogo.
+*- Quais elementos visuais foram aprimorados?* 
+  Inicialmente, o background não recebeu tanta atenção no esboço, mas percebemos que faltavam elementos visuais marcantes para reforçar a ambientação do jogo. Por isso, decidimos aprimorá-lo, criando um cenário mais elaborado que transmitisse melhor a proposta do salão de beleza. Esse ajuste ajudou a deixar o jogo mais imersivo e coerente com a temática escolhida.
 
-*- Quais elementos visuais foram aprimorados?*  
 
 *- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?*  
+   O uso das cores, formas e layout foi pensado para tornar o jogo mais atrativo e reforçar sua identidade visual. A escolha de tons vibrantes remete ao ambiente animado de um salão de beleza, deixando a estética mais chamativa e divertida. As formas arredondadas e fluidas ajudam a criar um visual mais leve e agradável, tornando a experiência mais acessível. 
+   Além disso, o layout foi planejado para destacar os principais elementos do jogo, garantindo que os secadores de cabelo e a bolinha (tufo de cabelo) fiquem bem visíveis e façam sentido dentro da proposta. A personagem no centro da tela, com os cabelos arrepiados e uma expressão surpresa, adiciona um toque de humor, deixando o jogo ainda mais divertido. Todos esses elementos foram pensados para modernizar o clássico Pong, trazendo um conceito inovador e visualmente atrativo.
+
 
 ---
 
@@ -48,16 +52,21 @@ CONTINUAR
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
 Alice: Um dos maiores desafios que enfrentamos no processo de criação, foi ter uma ideia que fosse diferente das que os nossos colegas de sala estavam tendo. Todas as ideias que tinhamos, quando olhavámos para os lados, estavam faznedo as mesmas coisas, e não queríamos isso. Queríamos trazer uma identidade para o nosso jogo, e conseguimos isso a partir do salão de beleza, trazendo as mulheres como foco para o mundo dos jogos.
 
-Luisa: 
+Luisa: Outro grande desafio foi aprender a utilizar aplicativos que nunca havíamos usado antes, sem qualquer conhecimento prévio. Primeiro, buscamos ferramentas que se encaixassem melhor na nossa proposta e que nos dessem liberdade para criar o que imaginávamos. Depois, tivemos que entender como esses aplicativos funcionavam e como poderíamos usá-los, mesmo sem muita experiência com desenho digital. Por fim, veio o maior desafio: aprender a desenhar na prática! Foi um processo cheio de aprendizados, mas também muito divertido.
+
 
 3. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
 Alice: Ao longo da atividade, pude desenvolver as minhas habilidades de documentação e de entendimento do assunto, colocando em prática o framework MDA e aprendendo quais aspectos devemos analisar quando estamos desenvolvendo um jogo e como isso se mostra um diferencial no mercado.
 
-Luisa:
+Luisa:  Ao longo da atividade, tive a oportunidade de sair da minha zona de conforto e explorar novas habilidades, especialmente o desenho digital. Sempre tive curiosidade sobre como funcionava, mas nunca havia tomado a iniciativa de aprender. Esse processo me permitiu não apenas entender melhor as ferramentas, mas também desenvolver mais confiança para experimentar novas formas de criação.
+
 
 
 ## 6. Referências (se houver)  
 Caso tenha utilizado referências externas, inclua aqui as fontes consultadas.  
+
+Jogo Toca Boca hair salon mobile 4 para o design do background
+https://play.google.com/store/apps/details?id=com.tocaboca.tocahairsalon4&pcampaignid=web_share
 
 ---
 
