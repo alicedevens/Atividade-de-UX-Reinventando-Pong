@@ -19,7 +19,6 @@ Dessa forma, o que torna o Pong um jogo envolvente, é o fato dele ser simples d
   Com todas essas mudanças e melhorias, a nossa versão pretende trazer um diferencial para o mercado, por meio de uma maior identificação com o público-alvo, que são as mulheres. Além disso, ao reinventar o clássico jogo Pong, não apenas estamos modernizando a experiência, mas também estamos colocando as mulheres no centro do universo dos games, um espaço onde sua representatividade ainda pode (e deve) ser ampliada.
 
 
-*Inclua aqui um **rascunho da Folha de Concept Art** e uma explicação sobre como o esboço foi desenvolvido.*
 
 http://tiny.cc/ai7a001
 
@@ -47,15 +46,15 @@ http://tiny.cc/mi7a001
 ---
 
 ## 5. Reflexão e Aprendizados  
-*Cada membro da dupla deve responder individualmente:*  
 
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
+
 Alice: Um dos maiores desafios que enfrentamos no processo de criação, foi ter uma ideia que fosse diferente das que os nossos colegas de sala estavam tendo. Todas as ideias que tinhamos, quando olhavámos para os lados, estavam faznedo as mesmas coisas, e não queríamos isso. Queríamos trazer uma identidade para o nosso jogo, e conseguimos isso a partir do salão de beleza, trazendo as mulheres como foco para o mundo dos jogos.
 
 Luisa: Outro grande desafio foi aprender a utilizar aplicativos que nunca havíamos usado antes, sem qualquer conhecimento prévio. Primeiro, buscamos ferramentas que se encaixassem melhor na nossa proposta e que nos dessem liberdade para criar o que imaginávamos. Depois, tivemos que entender como esses aplicativos funcionavam e como poderíamos usá-los, mesmo sem muita experiência com desenho digital. Por fim, veio o maior desafio: aprender a desenhar na prática! Foi um processo cheio de aprendizados, mas também muito divertido.
 
 
-3. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
+2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
 Alice: Ao longo da atividade, pude desenvolver as minhas habilidades de documentação e de entendimento do assunto, colocando em prática o framework MDA e aprendendo quais aspectos devemos analisar quando estamos desenvolvendo um jogo e como isso se mostra um diferencial no mercado.
 
 Luisa:  Ao longo da atividade, tive a oportunidade de sair da minha zona de conforto e explorar novas habilidades, especialmente o desenho digital. Sempre tive curiosidade sobre como funcionava, mas nunca havia tomado a iniciativa de aprender. Esse processo me permitiu não apenas entender melhor as ferramentas, mas também desenvolver mais confiança para experimentar novas formas de criação.
